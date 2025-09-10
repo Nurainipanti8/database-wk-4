@@ -1,4 +1,4 @@
-# 📝 Assignment: Advanced SQL Queries and Aggregations
+ # 📝 Assignment: Advanced SQL Queries and Aggregations
 
 ## 🎯 Learning Objectives  
 - Understand how to use aggregation functions such as SUM(), AVG(), and MAX() in SQL queries.  
